@@ -20,6 +20,8 @@ public class dynamic_input {
 		System.out.println("Enter value y:(byte)");
 		y=sc.nextByte();
 		System.out.println("a is "+a+"b is "+b+"String is "+ str+"y is "+y);
+		System.out.println("Hello World");
+		
 	}
 
 }
